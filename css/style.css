@@ -376,7 +376,7 @@ header.sticky{
 	margin-bottom: 16px;
 }
 .list ul li a{
-	color: #ffffffbf;
+	color: #ffffff;
 	font-size: var(--p-font);
 	display: block;
 	transition: .3s;
