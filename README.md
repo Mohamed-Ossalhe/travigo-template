@@ -38,4 +38,7 @@ in addition to the SEO to make it stands in the front when someone searches for 
 
 - Proposez un contenu adéquat pour le site (texte, photos).
 
-*Brief 2 Loading...*
+**Edits:**
+        - Edited The SEO Part
+
+*Brief 2 Done!*
