@@ -5,7 +5,10 @@ my vision was to make the rest of the needed pages, tours page and contact page,
 in addition to the SEO to make it stands in the front when someone searches for travel tours.
 
 **Preview my Work**:
-- ***https://www.figma.com/file/7dqOXXj0iqUGlRYTsIWHUB/Travigo-Travel-Agency?node-id=0%3A1***
+    * **Web design**:
+        - ***https://www.figma.com/file/7dqOXXj0iqUGlRYTsIWHUB/Travigo-Travel-Agency?node-id=0%3A1***
+    * **Live Demo**:
+        - ***https://mohamed-ossalhe.github.io/travigo-template***
 
 **Team:**
 * *our team includes:*
